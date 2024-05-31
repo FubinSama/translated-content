@@ -1,8 +1,6 @@
 ---
 title: gzip compression (gzip 圧縮)
-slug: Glossary/GZip_compression
-l10n:
-  sourceCommit: d2a9f2e26a8139d4bb270d7dc3cddd8b848719fe
+slug: Glossary/gzip_compression
 ---
 
 {{GlossarySidebar}}
